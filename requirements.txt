@@ -1,0 +1,16 @@
+# PoliTrade Cloud — Python Dependencies
+# Used by: GitHub Actions (scraper) + Streamlit Cloud (dashboard)
+# Install locally: pip install -r requirements.txt
+
+# ── Scraper dependencies ───────────────────────────────────────────────────
+requests>=2.31.0        # HTTP client for scraping and API calls
+beautifulsoup4>=4.12.0  # HTML parsing for Capitol Trades scraper
+lxml>=4.9.0             # Fast HTML parser backend for BeautifulSoup
+
+# ── Dashboard dependencies ─────────────────────────────────────────────────
+streamlit>=1.35.0       # Dashboard framework (Streamlit Cloud runs this)
+pandas>=2.0.0           # Data manipulation and CSV handling
+plotly>=5.20.0          # Interactive charts (bar, area, scatter)
+
+# ── Utilities ──────────────────────────────────────────────────────────────
+python-dateutil>=2.8.2  # Robust date parsing
