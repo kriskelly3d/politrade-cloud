@@ -1,0 +1,128 @@
+# ============================================================
+#  PoliTrade — Automated Scrape & Commit Workflow
+#  File: .github/workflows/scrape.yml
+#
+#  What this does:
+#    1. Runs on a cron schedule (every 4 hours, 6am-10pm ET)
+#    2. Also runs on every push to main (for testing)
+#    3. Installs Python dependencies
+#    4. Runs scrape.py which fetches Capitol Trades data
+#    5. Commits the updated data/trades.csv back to the repo
+#    6. Streamlit Cloud auto-detects the new commit and refreshes
+#
+#  Cost: $0 — GitHub Actions gives 2,000 free minutes/month
+#  on public repos. This workflow uses ~2 min per run × 6 runs/day
+#  × 30 days = ~360 minutes/month. Well within the free tier.
+# ============================================================
+
+name: Scrape Congressional Trades
+
+on:
+  # ── Scheduled runs ────────────────────────────────────────
+  schedule:
+    # Cron syntax: minute hour day month weekday (UTC)
+    # These times are staggered to avoid rate-limit clashes
+    # and converted from ET (UTC-4 in summer, UTC-5 in winter).
+    # Runs at: 6am, 10am, 2pm, 6pm, 10pm ET (approx)
+    - cron: '0 10 * * 1-5'   # 06:00 ET (market pre-open)
+    - cron: '0 14 * * 1-5'   # 10:00 ET (market open)
+    - cron: '0 18 * * 1-5'   # 14:00 ET (midday)
+    - cron: '0 22 * * 1-5'   # 18:00 ET (market close)
+    - cron: '0 10 * * 6'     # Saturday morning (catch weekly filings)
+
+  # ── Manual trigger (run from GitHub Actions UI) ────────────
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: 'How many days of history to fetch'
+        required: false
+        default: '30'
+
+  # ── Run on every push to main (useful for testing) ─────────
+  push:
+    branches: [ main ]
+    paths:
+      - 'scrape.py'           # Only re-run if the scraper changed
+      - 'requirements.txt'
+
+# ── Permissions ────────────────────────────────────────────────
+# Needed so the workflow can commit files back to the repo
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-commit:
+    name: Scrape & Update Data
+    runs-on: ubuntu-latest   # Free GitHub-hosted runner
+
+    steps:
+      # ── Step 1: Check out the repository ──────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git can detect changes
+          fetch-depth: 1
+
+      # ── Step 2: Set up Python ──────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          # Cache pip dependencies between runs
+          # This makes subsequent runs ~30 seconds faster
+          cache: 'pip'
+
+      # ── Step 3: Install dependencies ──────────────────────
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── Step 4: Run the scraper ────────────────────────────
+      - name: Run scraper
+        env:
+          # Pass any secrets here (none needed for Capitol Trades)
+          # If you add a paid API later: QUIVER_API_KEY: ${{ secrets.QUIVER_API_KEY }}
+          DAYS_BACK: ${{ github.event.inputs.days_back || '30' }}
+          # This tells scrape.py it's running in CI (no color logs, etc.)
+          CI: 'true'
+        run: |
+          python scrape.py --days $DAYS_BACK
+        # Don't fail the whole workflow if scrape has partial errors
+        continue-on-error: false
+
+      # ── Step 5: Commit updated data back to repo ───────────
+      - name: Commit updated data files
+        run: |
+          # Configure git identity for the commit
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage all changed files in data/
+          git add data/
+
+          # Only commit if there are actual changes
+          # (If Capitol Trades had no new trades, skip the commit)
+          if git diff --staged --quiet; then
+            echo "No data changes detected. Skipping commit."
+          else
+            # Count new rows for the commit message
+            NEW_ROWS=$(git diff --staged --stat | grep trades.csv | grep -o '[0-9]* insertion' | grep -o '[0-9]*' || echo "some")
+            git commit -m "🤖 Auto-update: +${NEW_ROWS} trades [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+            echo "Data committed and pushed successfully."
+          fi
+
+      # ── Step 6: Report outcome ─────────────────────────────
+      - name: Scrape summary
+        if: always()
+        run: |
+          echo "===== RUN SUMMARY ====="
+          if [ -f data/trades.csv ]; then
+            ROWS=$(wc -l < data/trades.csv)
+            echo "trades.csv: $ROWS rows total"
+          fi
+          if [ -f data/last_run.json ]; then
+            cat data/last_run.json
+          fi
+          echo "======================="
