@@ -1,0 +1,1 @@
+2026-04-17T00:13:03Z | +978 new | 978 total | sources: {"capitol_trades": {"status": "ok", "records": 1116}, "senate_github": {"status": "ok", "records": 0}}

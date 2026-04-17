@@ -1,0 +1,16 @@
+{
+  "last_run_utc": "2026-04-17T00:13:03Z",
+  "new_records": 978,
+  "total_records": 978,
+  "sources": {
+    "capitol_trades": {
+      "status": "ok",
+      "records": 1116
+    },
+    "senate_github": {
+      "status": "ok",
+      "records": 0
+    }
+  },
+  "next_run_est": "~4 hours (GitHub Actions cron)"
+}
