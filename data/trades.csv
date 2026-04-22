@@ -989,3 +989,24 @@ be0bc4997af8da3bef6d,2026-04-21T10:58:16Z,Jim Banks,senate,SBUX,Starbucks Corp S
 a024abb20b97472cbcf0,2026-04-21T15:03:18Z,Cleo Fields,house,TSM,Taiwan Semiconductor Manufacturing Co Ltd TSM:US,purchase,2026-04-09,2026-04-21,1K–15K,1001,15000,8000.5,capitol_trades
 4c3ccf6275d7d3fa2446,2026-04-21T15:03:18Z,Dan Meuser,house,NVDA,NVIDIA Corporation NVDA:US,sale,2026-03-25,2026-04-21,1K–15K,1001,15000,8000.5,capitol_trades
 5ffe4fa7d1e2b45088de,2026-04-21T15:03:18Z,Dwight Evans,house,MU,Micron Technology Inc MU:US,sale,2026-03-24,2026-04-21,15K–50K,15001,50000,32500.5,capitol_trades
+a3a314cc67ddfc9f9414,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,AMGN,Amgen Inc AMGN:US,purchase,2026-03-24,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+00cb30c1613e3ba30e15,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,BA,Boeing Co BA:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+d7e5c9856909b707a6d6,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,BA,Boeing Co BA:US,purchase,2026-03-19,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+0aee2b9c20f37ec21039,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,CSCO,Cisco Systems Inc CSCO:US,purchase,2026-03-19,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+5f025df0e693120041c9,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,CSCO,Cisco Systems Inc CSCO:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+f9e3505fc4d90de2e38e,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,C,Citigroup Inc C:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+6e078382246dbfed3b79,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,C,Citigroup Inc C:US,purchase,2026-03-19,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+ff73b1d435d90012d3e3,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,GLW,Corning Inc GLW:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+6c708424979d8d7d4772,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,FDX,FedEx Corp FDX:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+f5492018296d54913c04,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,FDX,FedEx Corp FDX:US,purchase,2026-03-25,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+8db0f82bb90ca1b0cf50,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,GE,General Electric Co GE:US,purchase,2026-03-24,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+843ac5682bac95cdeb38,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,GS,The Goldman Sachs Group Inc GS:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+912ebc1ce7bc207cb2c0,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,HON,Honeywell International Inc HON:US,purchase,2026-03-24,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+55e413455ef405fdcc03,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,NVR,NVR Inc NVR:US,purchase,2026-03-19,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+e54b6cc6732e069618b3,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,PTON,Peloton Interactive Inc PTON:US,purchase,2026-03-19,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+bb0ae54a0d9d22357d26,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,RH,RH RH:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+9a7174ba038b418a527b,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,ULTA,Ulta Beauty Inc ULTA:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+6cb8752b9db148862e70,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,URI,United Rentals Inc URI:US,purchase,2026-03-25,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+0ebcffbdc779b02231a6,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,INC,VENTURE GLOBAL INC VG:US,purchase,2026-03-19,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
+0fd58a35965802a9a632,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,WHR,Whirlpool Corp WHR:US,purchase,2026-03-19,2026-04-22,15K–50K,15001,50000,32500.5,capitol_trades
+95bd5ce65fd898c9d760,2026-04-22T15:03:39Z,Maria Elvira Salazar,house,WHR,Whirlpool Corp WHR:US,purchase,2026-03-19,2026-04-22,1K–15K,1001,15000,8000.5,capitol_trades
