@@ -1,7 +1,7 @@
 {
-  "last_run_utc": "2026-04-24T15:00:56Z",
-  "new_records": 0,
-  "total_records": 1011,
+  "last_run_utc": "2026-04-24T18:56:42Z",
+  "new_records": 1,
+  "total_records": 1012,
   "sources": {
     "capitol_trades": {
       "status": "ok",
