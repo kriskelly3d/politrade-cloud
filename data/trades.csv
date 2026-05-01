@@ -1073,3 +1073,53 @@ e32bbcf1d52529b12db8,2026-04-30T15:43:02Z,Scott Peters,house,ALPHA,ALLOCATE ALPH
 ebdeb8e977a61eb29e2d,2026-04-30T15:43:02Z,Scott Peters,house,I,INVERTED CAPITAL I LP N/A,purchase,2026-03-25,2026-04-30,50K–100K,50001,100000,75000.5,capitol_trades
 b2821d25ca81bd0567f8,2026-04-30T15:43:02Z,Scott Peters,house,OF,COUNTY OF RIVERSIDE CALIFORNIA N/A,sale,2026-03-30,2026-04-30,500K–1M,500001,1000000,750000.5,capitol_trades
 2f76792526066001a71e,2026-04-30T15:43:02Z,Scott Peters,house,OF,UNIVERSITY OF CALIFORNIA SAN DIEGO N/A,sale,2026-03-27,2026-04-30,250K–500K,250001,500000,375000.5,capitol_trades
+f5dc2d0e0463dd5e89df,2026-05-01T14:45:03Z,Lloyd Smucker,house,ENB,ENB FINANCIAL CORP ENBP:US,sale,2026-04-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+6e16eec8d0e3e3460ec5,2026-05-01T14:45:03Z,Lloyd Smucker,house,CORP,FULTON FINANCIAL CORP FULT:US,sale,2026-04-23,2026-05-01,50K–100K,50001,100000,75000.5,capitol_trades
+bdf0dcb4920d5886cea2,2026-05-01T14:45:03Z,Lloyd Smucker,house,CORP,FULTON FINANCIAL CORP FULT:US,sale,2026-04-17,2026-05-01,100K–250K,100001,250000,175000.5,capitol_trades
+c9d4a3079b97f780cf9a,2026-05-01T14:45:03Z,Lloyd Smucker,house,PRU,Prudential Financial Inc PRU:US,sale,2026-04-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+2e0024290bec5adaed1f,2026-05-01T14:45:03Z,Lloyd Smucker,house,TFC,Truist Financial Corp TFC:US,sale,2026-04-17,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+dc67bf753dae83a9ca2e,2026-05-01T14:45:03Z,Lloyd Smucker,house,VZ,Verizon Communications Inc VZ:US,sale,2026-04-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+db3ec416807b7fd83331,2026-05-01T14:45:03Z,Lloyd Smucker,house,WFC,Wells Fargo & Co WFC:US,sale,2026-04-23,2026-05-01,15K–50K,15001,50000,32500.5,capitol_trades
+80590dbb95fa9e369b85,2026-05-01T14:45:03Z,Jared Moskowitz,house,PLC,Accenture PLC ACN:US,sale,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+732d89d10b063a134d8c,2026-05-01T14:45:03Z,Jared Moskowitz,house,AXP,American Express Co AXP:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+97d5ebfc5a11b06d0dcd,2026-05-01T14:45:03Z,Jared Moskowitz,house,ASML,ASML Holding NV ASML:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+b840489e0f2031dc3960,2026-05-01T14:45:03Z,Jared Moskowitz,house,ASML,ASML Holding NV ASML:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+61f303ecbf44fe7c70a9,2026-05-01T14:45:03Z,Jared Moskowitz,house,ADP,Automatic Data Processing Inc ADP:US,sale,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+1698c1eabd8f07c6ed8b,2026-05-01T14:45:03Z,Jared Moskowitz,house,AVGO,Broadcom Inc AVGO:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+0640b35effc3f3fec1b2,2026-05-01T14:45:03Z,Jared Moskowitz,house,BRO,Brown & Brown Inc BRO:US,sale,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+f2157813e7ebca5f238c,2026-05-01T14:45:03Z,Jared Moskowitz,house,CAT,Caterpillar Inc CAT:US,sale,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+ab44013f0f27f600688a,2026-05-01T14:45:03Z,Jared Moskowitz,house,COR,Cencora Inc COR:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+e90d7fe1ab1e68f7be3f,2026-05-01T14:45:03Z,Jared Moskowitz,house,COR,Cencora Inc COR:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+c4137b8ebe1182759839,2026-05-01T14:45:03Z,Jared Moskowitz,house,CB,Chubb Ltd CB:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+58bc2a453fe07c0a2d48,2026-05-01T14:45:03Z,Jared Moskowitz,house,CMI,Cummins Inc CMI:US,sale,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+1f6b418e033df9459b47,2026-05-01T14:45:03Z,Jared Moskowitz,house,GE,General Electric Co GE:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+ada5dc3cd254dd4b7761,2026-05-01T14:45:03Z,Jared Moskowitz,house,GE,General Electric Co GE:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+4612fc58ffd1566d683d,2026-05-01T14:45:03Z,Jared Moskowitz,house,GD,General Dynamics Corp GD:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+d75bdc436dc9f281eb62,2026-05-01T14:45:03Z,Jared Moskowitz,house,GD,General Dynamics Corp GD:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+7f54397b9662bc8dad81,2026-05-01T14:45:03Z,Jared Moskowitz,house,HD,The Home Depot Inc HD:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+79818d0a9236ad98bfe4,2026-05-01T14:45:03Z,Jared Moskowitz,house,MCD,McDonald's Corp MCD:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+a5583b6a72acb031f1e4,2026-05-01T14:45:03Z,Jared Moskowitz,house,MNST,Monster Beverage Corp MNST:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+41d1497fd28d6cd1cfee,2026-05-01T14:45:03Z,Jared Moskowitz,house,MSI,Motorola Solutions Inc MSI:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+d5df3fc0595e28989405,2026-05-01T14:45:03Z,Jared Moskowitz,house,MSI,Motorola Solutions Inc MSI:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+b391149674dfd064dfdf,2026-05-01T14:45:03Z,Jared Moskowitz,house,ORCL,Oracle Corp ORCL:US,sale,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+e78e5135ae34fcd09d05,2026-05-01T14:45:03Z,Jared Moskowitz,house,ORCL,Oracle Corp ORCL:US,sale,2026-03-23,2026-05-01,15K–50K,15001,50000,32500.5,capitol_trades
+342fc7f500f85fe0007d,2026-05-01T14:45:03Z,Jared Moskowitz,house,PANW,Palo Alto Networks Inc PANW:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+5a2baf4cc62e7b6855e3,2026-05-01T14:45:03Z,Jared Moskowitz,house,PANW,Palo Alto Networks Inc PANW:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+040efc4d724e035a166b,2026-05-01T14:45:03Z,Jared Moskowitz,house,PH,Parker-Hannifin Corp PH:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+d6c996ca6e6cdf035593,2026-05-01T14:45:03Z,Jared Moskowitz,house,PH,Parker-Hannifin Corp PH:US,purchase,2026-03-31,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+04db7ad6743b53c684d4,2026-05-01T14:45:03Z,Jared Moskowitz,house,QCOM,QUALCOMM Inc QCOM:US,sale,2026-03-31,2026-05-01,15K–50K,15001,50000,32500.5,capitol_trades
+c2791d1d8f8adc39aaa5,2026-05-01T14:45:03Z,Jared Moskowitz,house,CI,Cigna Corp CI:US,sale,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+5aab7bcf38359f1b4e33,2026-05-01T14:45:03Z,Jared Moskowitz,house,TJX,The TJX Companies Inc TJX:US,purchase,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+7732ae8ba14e936af27c,2026-05-01T14:45:03Z,Jared Moskowitz,house,TSCO,Tractor Supply Co TSCO:US,sale,2026-03-23,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+5caf47788a3299bf71f5,2026-05-01T14:45:03Z,Jared Moskowitz,house,TSCO,Tractor Supply Co TSCO:US,sale,2026-03-23,2026-05-01,15K–50K,15001,50000,32500.5,capitol_trades
+2c0bde2000b275c3e887,2026-05-01T14:45:03Z,Lizzie Fletcher,house,GOOGL,Alphabet Inc GOOGL:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+f2945024f5c69d41513d,2026-05-01T14:45:03Z,Lizzie Fletcher,house,AMP,Ameriprise Financial Inc AMP:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+eba5f7505ace21c3e604,2026-05-01T14:45:03Z,Lizzie Fletcher,house,AAPL,Apple Inc AAPL:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+ecc3dac7c208018c5ebb,2026-05-01T14:45:03Z,Lizzie Fletcher,house,PLC,Eaton Corp PLC ETN:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+85e61a5da38656f9d359,2026-05-01T14:45:03Z,Lizzie Fletcher,house,LLY,Eli Lilly and Co LLY:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+2d7c3782118e0a662052,2026-05-01T14:45:03Z,Lizzie Fletcher,house,JPM,JPMorgan Chase & Co JPM:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+72ecb21e6dfa96359f59,2026-05-01T14:45:03Z,Lizzie Fletcher,house,KLA,KLA Corp KLAC:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+991523819f69244a0206,2026-05-01T14:45:03Z,Lizzie Fletcher,house,MCK,McKesson Corp MCK:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+1903f28ea9ac88ec7152,2026-05-01T14:45:03Z,Lizzie Fletcher,house,MSFT,Microsoft Corp MSFT:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+1e5a82b9d28b6935eb30,2026-05-01T14:45:03Z,Lizzie Fletcher,house,NVDA,NVIDIA Corporation NVDA:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
+f4d037e4db4cbc489efd,2026-05-01T14:45:03Z,Lizzie Fletcher,house,PWR,Quanta Services Inc PWR:US,sale,2026-04-08,2026-05-01,1K–15K,1001,15000,8000.5,capitol_trades
