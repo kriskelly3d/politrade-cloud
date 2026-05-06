@@ -55,3 +55,4 @@
 2026-05-05T19:25:07Z | +3 new | 1163 total | sources: {"capitol_trades": {"status": "ok", "records": 1197}, "senate_github": {"status": "ok", "records": 0}}
 2026-05-05T23:00:57Z | +0 new | 1163 total | sources: {"capitol_trades": {"status": "ok", "records": 1197}, "senate_github": {"status": "ok", "records": 0}}
 2026-05-06T11:43:44Z | +0 new | 1163 total | sources: {"capitol_trades": {"status": "ok", "records": 1180}, "senate_github": {"status": "ok", "records": 0}}
+2026-05-06T15:57:14Z | +8 new | 1171 total | sources: {"capitol_trades": {"status": "ok", "records": 1188}, "senate_github": {"status": "ok", "records": 0}}
