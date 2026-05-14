@@ -1450,3 +1450,371 @@ a4635c51cc1582adf855,2026-05-13T16:12:42Z,Chuck Fleischmann,house,ETF,iShares 3-
 76d73a745ea968bfc57b,2026-05-13T16:12:42Z,Chuck Fleischmann,house,STATE,STATE STREET SPDR MOT BKD BD SPMB:US,sale,2026-04-28,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
 a6327d9a9d2e4265aa88,2026-05-13T16:12:42Z,Chuck Fleischmann,house,SPDR,SPDR Portfolio S&P 500 Growth ETF SPYG:US,purchase,2026-04-28,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
 998513b1596e017124e2,2026-05-13T16:12:42Z,Chuck Fleischmann,house,ALL,VANGUARD ALL EQUITY ETF N/A,purchase,2026-04-28,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3bea489d552e7fd4c805,2026-05-14T11:42:48Z,Ro Khanna,house,JPM,JPMorgan Chase & Co JPM:US,purchase,2026-04-21,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+acfb422303d9aad2939a,2026-05-14T11:42:48Z,Ro Khanna,house,AMZN,Amazon.com Inc AMZN:US,purchase,2026-04-02,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ab541364f86c3ed45eef,2026-05-14T11:42:48Z,Ro Khanna,house,META,Meta Platforms Inc META:US,purchase,2026-04-02,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b32126b5081f78a86616,2026-05-14T11:42:48Z,Ro Khanna,house,MCHP,Microchip Technology Inc MCHP:US,purchase,2026-04-02,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8e95a90e9250779641cb,2026-05-14T11:42:48Z,Ro Khanna,house,GOOGL,Alphabet Inc GOOGL:US,sale,2026-04-02,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3f4dfa56405ae95d7ced,2026-05-14T11:42:48Z,Ro Khanna,house,NDAQ,Nasdaq Inc NDAQ:US,sale,2026-04-22,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+eba7a5592fe9b51414ff,2026-05-14T11:42:48Z,Ro Khanna,house,LGF,Lions Gate Entertainment Corp LGF/A:US,sale,2026-04-22,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+fa12493a9835d80e2319,2026-05-14T11:42:48Z,Ro Khanna,house,MU,Micron Technology Inc MU:US,sale,2026-04-27,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+f0c3c488bea29266a4eb,2026-05-14T11:42:48Z,Ro Khanna,house,BRK,Berkshire Hathaway Inc BRK/B:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+cb8ac459f5ab849f6c99,2026-05-14T11:42:48Z,Ro Khanna,house,HD,The Home Depot Inc HD:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+913f27aa3bd2e2c2482a,2026-05-14T11:42:48Z,Ro Khanna,house,CSCO,Cisco Systems Inc CSCO:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+986c7825ef1d3042b657,2026-05-14T11:42:48Z,Ro Khanna,house,JNJ,Johnson & Johnson JNJ:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+41654cccb77119b85770,2026-05-14T11:42:48Z,Ro Khanna,house,TMO,Thermo Fisher Scientific Inc TMO:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+c8e781a2612243874953,2026-05-14T11:42:48Z,Ro Khanna,house,SYK,Stryker Corp SYK:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+f48bc3a035aef9c25436,2026-05-14T11:42:48Z,Ro Khanna,house,ADP,Automatic Data Processing Inc ADP:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+d266df63101d995c41f8,2026-05-14T11:42:48Z,Ro Khanna,house,COF,Capital One Financial Corp COF:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+ecdcd0624ef423ab60df,2026-05-14T11:42:48Z,Ro Khanna,house,MA,Mastercard Inc MA:US,purchase,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+23b7a18c6592d5c4c79d,2026-05-14T11:42:48Z,Ro Khanna,house,INTU,Intuit Inc INTU:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+32935091560aacb20210,2026-05-14T11:42:48Z,Ro Khanna,house,IBM,International Business Machines Corp IBM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+adc5b10810c669f72ad3,2026-05-14T11:42:48Z,Ro Khanna,house,HON,Honeywell International Inc HON:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+f4a2409fec1fc1da612c,2026-05-14T11:42:48Z,Ro Khanna,house,VRTX,Vertex Pharmaceuticals Inc VRTX:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c456590dfff308fe61c0,2026-05-14T11:42:48Z,Ro Khanna,house,PANW,Palo Alto Networks Inc PANW:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1de1b127f3d5188da606,2026-05-14T11:42:48Z,Ro Khanna,house,ARES,Ares Management Corp ARES:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2555c6deb2549188d173,2026-05-14T11:42:48Z,Ro Khanna,house,NOW,ServiceNow Inc NOW:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+80995380a7de3511b492,2026-05-14T11:42:48Z,Ro Khanna,house,TJX,The TJX Companies Inc TJX:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a5f79aa71ab40667c1d1,2026-05-14T11:42:48Z,Ro Khanna,house,NEE,NextEra Energy Inc NEE:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3fe00c3b5b7add4ff9f0,2026-05-14T11:42:48Z,Ro Khanna,house,KKR,KKR & Co Inc KKR:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+cb6aebb65bdc4600af9b,2026-05-14T11:42:48Z,Ro Khanna,house,PLC,Accenture PLC ACN:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2446c271dce183616aab,2026-05-14T11:42:48Z,Ro Khanna,house,PFE,Pfizer Inc PFE:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9bcb49c1e817d85f8b89,2026-05-14T11:42:48Z,Ro Khanna,house,FLT,FleetCor Technologies Inc FLT:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6b290d2fa61d529be8aa,2026-05-14T11:42:48Z,Ro Khanna,house,NDAQ,Nasdaq Inc NDAQ:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1cd434a0e346e63bd57d,2026-05-14T11:42:48Z,Ro Khanna,house,SCHW,Schwab (Charles) Corp SCHW:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+340c8c79add6c3ac607f,2026-05-14T11:42:48Z,Ro Khanna,house,IDEXX,IDEXX Laboratories Inc IDXX:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+900f18839b3717306e6c,2026-05-14T11:42:48Z,Ro Khanna,house,EMR,Emerson Electric Co EMR:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+58e9665a3c22a217ccfa,2026-05-14T11:42:48Z,Ro Khanna,house,CPRT,Copart Inc CPRT:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1b93bd519c5c3bf5a382,2026-05-14T11:42:48Z,Ro Khanna,house,ADBE,Adobe Inc ADBE:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+56e4ac4db7463e36fb0a,2026-05-14T11:42:48Z,Ro Khanna,house,CDNS,Cadence Design Systems Inc CDNS:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+de8a189d9e4579e5405a,2026-05-14T11:42:48Z,Ro Khanna,house,SNPS,Synopsys Inc SNPS:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c9bbc8b506bd49135f6d,2026-05-14T11:42:48Z,Ro Khanna,house,CMG,Chipotle Mexican Grill Inc CMG:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+23e822fb057eb7efce88,2026-05-14T11:42:48Z,Ro Khanna,house,ECL,Ecolab Inc ECL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+63cf016523ec9a906d90,2026-05-14T11:42:48Z,Ro Khanna,house,PAYX,Paychex Inc PAYX:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+45979b618251bf37a489,2026-05-14T11:42:48Z,Ro Khanna,house,MRSH,Marsh & McLennan Companies Inc MRSH:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7f92d434a62558a56e41,2026-05-14T11:42:48Z,Ro Khanna,house,BK,The Bank of New York Mellon Corp BK:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2192a57b2b4de60f7c39,2026-05-14T11:42:48Z,Ro Khanna,house,REGN,Regeneron Pharmaceuticals Inc REGN:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+63b1890142f50daf9ad4,2026-05-14T11:42:48Z,Ro Khanna,house,CVNA,Carvana Co CVNA:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e8262fbb5bda0e2b1638,2026-05-14T11:42:48Z,Ro Khanna,house,ADI,Analog Devices Inc ADI:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e0a4fdbac16a58120eed,2026-05-14T11:42:48Z,Ro Khanna,house,WDC,Western Digital Corp WDC:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5fd44128bf2be2d7ad8f,2026-05-14T11:42:48Z,Ro Khanna,house,ADSK,AUTODESK Inc ADSK:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a1558dab12c1299ccdb8,2026-05-14T11:42:48Z,Ro Khanna,house,FDS,FactSet Research Systems Inc FDS:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+f10d0d9581e41afefc46,2026-05-14T11:42:48Z,Ro Khanna,house,PNC,The PNC Financial Services Group Inc PNC:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3427763027d3c3497745,2026-05-14T11:42:48Z,Ro Khanna,house,BR,Broadridge Financial Solutions Inc BR:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+20b5fec1e631a889f727,2026-05-14T11:42:48Z,Ro Khanna,house,DIS,The Walt Disney Co DIS:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+02a4f38da317c5e22dce,2026-05-14T11:42:48Z,Ro Khanna,house,APD,Air Products and Chemicals Inc APD:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+208dea92cc1cf44a0261,2026-05-14T11:42:48Z,Ro Khanna,house,WDAY,Workday Inc WDAY:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9a2f7a47cedf2ede61cb,2026-05-14T11:42:48Z,Ro Khanna,house,PGR,The Progressive Corp PGR:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2a60cccbaaaca3cdc8fe,2026-05-14T11:42:48Z,Ro Khanna,house,RJF,Raymond James Financial Inc RJF:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+40400e1c2f02b1476dfc,2026-05-14T11:42:48Z,Ro Khanna,house,IBKR,Interactive Brokers Group Inc IBKR:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+bc11962e577667ded544,2026-05-14T11:42:48Z,Ro Khanna,house,VMC,Vulcan Materials Co VMC:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+69a9f9da858f879ad16a,2026-05-14T11:42:48Z,Ro Khanna,house,W,Grainger (W.W.) Inc GWW:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5ab74893d35ac8db9ec2,2026-05-14T11:42:48Z,Ro Khanna,house,DXCM,DexCom Inc DXCM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c0ea857b4577bf324040,2026-05-14T11:42:48Z,Ro Khanna,house,BALL,BALL CORPORATION BALL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+30243691c4aff8b2a963,2026-05-14T11:42:48Z,Ro Khanna,house,HOOD,Robinhood Markets Inc HOOD:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+793514a57356566e7055,2026-05-14T11:42:48Z,Ro Khanna,house,U,U.S. Bancorp USB:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+707004181be85d93fefb,2026-05-14T11:42:48Z,Ro Khanna,house,O,O'Reilly Automotive Inc ORLY:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1657633449d3dcab3bb6,2026-05-14T11:42:48Z,Ro Khanna,house,CVS,CVS Health Corp CVS:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e794695150967a42d8f1,2026-05-14T11:42:48Z,Ro Khanna,house,MSCI,MSCI Inc MSCI:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+19b021b953c71522aba9,2026-05-14T11:42:48Z,Ro Khanna,house,DELL,Dell Technologies Inc DELL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+89afb969c13153370fed,2026-05-14T11:42:48Z,Ro Khanna,house,F,Ford Motor Co F:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a661e2a6610cd1fece3e,2026-05-14T11:42:48Z,Ro Khanna,house,HBAN,Huntington Bancshares Inc HBAN:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ea66a5bea871a1e8c39b,2026-05-14T11:42:48Z,Ro Khanna,house,AMT,American Tower Corp AMT:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+db0df76b33cc73a20b42,2026-05-14T11:42:48Z,Ro Khanna,house,GM,General Motors Co GM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+127fc3857837d498de51,2026-05-14T11:42:48Z,Ro Khanna,house,LEN,Lennar Corp LEN:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4091ff0763a95866a9e6,2026-05-14T11:42:48Z,Ro Khanna,house,XYL,Xylem Inc XYL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+625a442d8c26db2e8b7d,2026-05-14T11:42:48Z,Ro Khanna,house,GE,GE HEALTHCARE TECHNOLOGI INC GEHC:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+508dd7b3bc555efe7cea,2026-05-14T11:42:48Z,Ro Khanna,house,UNP,Union Pacific Corp UNP:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+897a4a2085eb60db5f58,2026-05-14T11:42:48Z,Ro Khanna,house,CRM,salesforce.com Inc CRM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+17d916e696a275d48a5d,2026-05-14T11:42:48Z,Ro Khanna,house,VRSK,VERISK ANALYTICS Inc VRSK:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ba8e60f996005fa072b3,2026-05-14T11:42:48Z,Ro Khanna,house,ICE,Intercontinental Exchange Inc ICE:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2fdd2538e6f7aba05f0f,2026-05-14T11:42:48Z,Ro Khanna,house,YUM,YUM BRANDS  Inc YUM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d4213b0acad07183400b,2026-05-14T11:42:48Z,Ro Khanna,house,RMD,Resmed Inc RMD:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+944722bb50dfb15728a5,2026-05-14T11:42:48Z,Ro Khanna,house,WFC,Wells Fargo & Co WFC:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b047e7f39de4ed125871,2026-05-14T11:42:48Z,Ro Khanna,house,CORP,APPLOVIN CORP APP:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8491cf029317e61b0a14,2026-05-14T11:42:48Z,Ro Khanna,house,URI,United Rentals Inc URI:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5c4e1ee872316602beb6,2026-05-14T11:42:48Z,Ro Khanna,house,AVGO,Broadcom Inc AVGO:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5be555d92b2acd37562e,2026-05-14T11:42:48Z,Ro Khanna,house,ORCL,Oracle Corp ORCL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6eeedfa120afa74b2fb4,2026-05-14T11:42:48Z,Ro Khanna,house,FDX,FedEx Corp FDX:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+94277e7223f75ad84473,2026-05-14T11:42:48Z,Ro Khanna,house,ACI,Albertsons Cos Inc ACI:US,purchase,2026-04-27,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+0099f502e384ed7a7445,2026-05-14T11:42:48Z,Ro Khanna,house,ROST,Ross Stores Inc ROST:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e577b1099f4fbe3ee384,2026-05-14T11:42:48Z,Ro Khanna,house,LULU,Lululemon Athletica Inc LULU:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+37f51c7b5c5dcf2c4b4b,2026-05-14T11:42:48Z,Ro Khanna,house,TYL,Tyler Technologies Inc TYL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d357cee1ffeeeac35dc6,2026-05-14T11:42:48Z,Ro Khanna,house,POOL,Pool Corp POOL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+81882f5b5d1c8b9d863f,2026-05-14T11:42:48Z,Ro Khanna,house,NCR,NCR Corp NCR:US,purchase,2026-04-21,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3dd773a4b45734855c08,2026-05-14T11:42:48Z,Ro Khanna,house,WAT,Waters Corp WAT:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7bfc1e5d57e027ad593c,2026-05-14T11:42:48Z,Ro Khanna,house,VST,Vistra Corp VST:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8ceb7cfbe70530d01505,2026-05-14T11:42:50Z,Ro Khanna,house,ELV,Elevance Health Inc ELV:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+95f932da8187568e8ee7,2026-05-14T11:42:50Z,Ro Khanna,house,PEP,PepsiCo Inc PEP:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2f3e2225a0246985df3f,2026-05-14T11:42:50Z,Ro Khanna,house,DASH,DoorDash Inc DASH:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d687223f876671c7b6d9,2026-05-14T11:42:50Z,Ro Khanna,house,MLM,Martin Marietta Materials Inc MLM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d2ec37c504be73241add,2026-05-14T11:42:50Z,Ro Khanna,house,IT,Gartner Inc IT:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a8b7150c1740bf66ee6f,2026-05-14T11:42:50Z,Ro Khanna,house,UNH,Unitedhealth Group Inc UNH:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+58a4dd8029564192fed3,2026-05-14T11:42:50Z,Ro Khanna,house,COHR,Coherent Corp COHR:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b6dd4f281623164c9bdd,2026-05-14T11:42:50Z,Ro Khanna,house,NXP,NXP Semiconductors NV NXPI:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3f5a7fe6d2d2b01cc5f8,2026-05-14T11:42:50Z,Ro Khanna,house,VRT,Vertiv Holdings Co VRT:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b1f4d51ff48ecf6276d5,2026-05-14T11:42:50Z,Ro Khanna,house,EL,The Estee Lauder Cos Inc EL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ee40171f080814c142df,2026-05-14T11:42:50Z,Ro Khanna,house,ANET,Arista Networks Inc ANET:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+77efb1fb1129d9039868,2026-05-14T11:42:50Z,Ro Khanna,house,CTVA,Corteva Inc CTVA:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+0b1046c104f8b12fb882,2026-05-14T11:42:50Z,Ro Khanna,house,PODD,Insulet Corp PODD:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+db7deb34ab8208f99e7a,2026-05-14T11:42:50Z,Ro Khanna,house,MCHP,Microchip Technology Inc MCHP:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1723d77bac3e06804ff5,2026-05-14T11:42:50Z,Ro Khanna,house,SBUX,Starbucks Corp SBUX:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6adcee3c09c4da2c3bac,2026-05-14T11:42:50Z,Ro Khanna,house,KMB,Kimberly-Clark Corp KMB:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ae87976d949cba4a2c28,2026-05-14T11:42:50Z,Ro Khanna,house,EBAY,eBay Inc EBAY:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4f91c13bf079a1251ed2,2026-05-14T11:42:50Z,Ro Khanna,house,HUM,Humana Inc HUM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d67626963a71bfc39f26,2026-05-14T11:42:50Z,Ro Khanna,house,DHR,Danaher Corp DHR:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+378cbd331f3d15df8e81,2026-05-14T11:42:50Z,Ro Khanna,house,ENE,CONSTELLATION ENE CORP CEG:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+f891bc744e5224628fe9,2026-05-14T11:42:50Z,Ro Khanna,house,CARR,Carrier Global Corp CARR:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+f0a2ea619adde8a5be98,2026-05-14T11:42:50Z,Ro Khanna,house,NVDA,NVIDIA Corporation NVDA:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+34a980cb017ca99cddc8,2026-05-14T11:42:50Z,Ro Khanna,house,MRNA,Moderna Inc MRNA:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3e82b81f4e6538b7b826,2026-05-14T11:42:50Z,Ro Khanna,house,SWK,Stanley Black & Decker Inc SWK:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3dd1265dfb736037b65a,2026-05-14T11:42:50Z,Ro Khanna,house,IFF,International Flavors & Fragrances Inc IFF:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1457e97b9ccbb4f2000a,2026-05-14T11:42:50Z,Ro Khanna,house,UAL,United Airlines Holdings Inc UAL:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+914e2389b07af089fd53,2026-05-14T11:42:50Z,Ro Khanna,house,COO,The Cooper Cos Inc COO:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d2a166dbba1e05c95dab,2026-05-14T11:42:50Z,Ro Khanna,house,ON,ON Semiconductor Corp ON:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+52f80d5b7870f31913c6,2026-05-14T11:42:50Z,Ro Khanna,house,STT,State Street Corporation STT:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+f3935d7b80641cd13bc4,2026-05-14T11:42:50Z,Ro Khanna,house,BEN,Franklin Resources Inc BEN:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+cb9a551746ec2d7a8e69,2026-05-14T11:42:50Z,Ro Khanna,house,RVTY,Revvity Inc RVTY:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9de37bc2adf34351c88b,2026-05-14T11:42:50Z,Ro Khanna,house,IVZ,Invesco Ltd IVZ:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5fe1aa49709402a80938,2026-05-14T11:42:50Z,Ro Khanna,house,MOS,The Mosaic Company MOS:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+732fac5b6d8668d79b57,2026-05-14T11:42:50Z,Ro Khanna,house,LUV,Southwest Airlines Co LUV:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+75eb355d6b404833cd50,2026-05-14T11:42:50Z,Ro Khanna,house,HP,HP Inc HPQ:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+78cad7bcc13176567628,2026-05-14T11:42:50Z,Ro Khanna,house,BBY,Best Buy Co Inc BBY:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7741e0a611856968a483,2026-05-14T11:42:50Z,Ro Khanna,house,EW,Edwards Lifesciences Corp EW:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+02838d863fb251d73c9b,2026-05-14T11:42:50Z,Ro Khanna,house,FTNT,Fortinet Inc FTNT:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1e121fc0adc5470f1dee,2026-05-14T11:42:50Z,Ro Khanna,house,INVH,Invitation Homes Inc INVH:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+635c08fcddc73f52d67d,2026-05-14T11:42:50Z,Ro Khanna,house,ITW,Illinois Tool Works Inc ITW:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9588cba83e0bc8d70ba4,2026-05-14T11:42:50Z,Ro Khanna,house,WY,Weyerhaeuser Co WY:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1f1e386df7bd6ed27066,2026-05-14T11:42:50Z,Ro Khanna,house,DECK,Deckers Outdoor Corp DECK:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+240ec1853c4747b4cd6a,2026-05-14T11:42:50Z,Ro Khanna,house,VICI,VICI Properties Inc VICI:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d63553156c22e0ab1b07,2026-05-14T11:42:50Z,Ro Khanna,house,NV,LyondellBasell Industries NV LYB:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8baab966bda3a0c603a7,2026-05-14T11:42:50Z,Ro Khanna,house,BMY,Bristol-Myers Squibb Co BMY:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+36a2bf20c8afe2e0633a,2026-05-14T11:42:50Z,Ro Khanna,house,ALGN,Align Technology Inc ALGN:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+054afcc0b392e9ddecb7,2026-05-14T11:42:50Z,Ro Khanna,house,CCI,Crown Castle International Corp CCI:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+eea97611d66b77bd4de3,2026-05-14T11:42:50Z,Ro Khanna,house,DD,DuPont  De Nemours Inc DD:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1838e8a6c702634073df,2026-05-14T11:42:50Z,Ro Khanna,house,KHC,The Kraft Heinz Co KHC:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e4fa81ce3f35f399314c,2026-05-14T11:42:50Z,Ro Khanna,house,FAST,Fastenal Co FAST:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6de6ffd4ab297486e5ce,2026-05-14T11:42:50Z,Ro Khanna,house,ACI,Albertsons Cos Inc ACI:US,purchase,2026-04-28,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2a333b52da058e489464,2026-05-14T11:42:50Z,Ro Khanna,house,EPAM,EPAM Systems Inc EPAM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8cc4ab3f5a2403811bcb,2026-05-14T11:42:50Z,Ro Khanna,house,C,Citigroup Inc C:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8c4f4a268392a2732be1,2026-05-14T11:42:50Z,Ro Khanna,house,PM,Philip Morris International Inc PM:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+50b84b2d0be6bded3f13,2026-05-14T11:42:50Z,Ro Khanna,house,ACI,Albertsons Cos Inc ACI:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d6f0828801e628d80b26,2026-05-14T11:42:50Z,Ro Khanna,house,WBD,Warner Bros Discover Inc WBD:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9372d1b19a906a37f99e,2026-05-14T11:42:50Z,Ro Khanna,house,MSI,Motorola Solutions Inc MSI:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6703510e9e159f59092c,2026-05-14T11:42:50Z,Ro Khanna,house,ACI,Albertsons Cos Inc ACI:US,purchase,2026-04-23,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7aa91b760c4375f11225,2026-05-14T11:42:50Z,Ro Khanna,house,AXP,American Express Co AXP:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+bb76b2c98735812db1f1,2026-05-14T11:42:50Z,Ro Khanna,house,LTD,GENIUS SPORTS LTD N/A,purchase,2026-04-14,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2b5e7157d17cc4fcf16d,2026-05-14T11:42:50Z,Ro Khanna,house,ACI,Albertsons Cos Inc ACI:US,purchase,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1dcf899724beac9097b6,2026-05-14T11:42:50Z,Ro Khanna,house,LTD,GENIUS SPORTS LTD N/A,purchase,2026-04-02,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4f691afc54dd019c28fb,2026-05-14T11:42:50Z,Ro Khanna,house,MCHP,Microchip Technology Inc MCHP:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+32ef7e4995e36477e259,2026-05-14T11:42:50Z,Ro Khanna,house,GILD,Gilead Sciences Inc GILD:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+825a1ca7f79979652d82,2026-05-14T11:42:50Z,Ro Khanna,house,MS,Morgan Stanley MS:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+4db21c03122c58e8c42f,2026-05-14T11:42:50Z,Ro Khanna,house,LGF,Lions Gate Entertainment Corp LGF/A:US,sale,2026-04-20,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+c37989cce20649da19e7,2026-05-14T11:42:50Z,Ro Khanna,house,PLTR,Palantir Technologies Inc PLTR:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+cf95e5930b29dc462800,2026-05-14T11:42:50Z,Ro Khanna,house,TXN,Texas Instruments Inc TXN:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+4bcb280fbf4f45143820,2026-05-14T11:42:50Z,Ro Khanna,house,RSG,Republic Services Inc RSG:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+e659d3e7d2b53f95eb54,2026-05-14T11:42:50Z,Ro Khanna,house,V,Visa Inc V:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+2dbd7ec2d92f97b5452f,2026-05-14T11:42:50Z,Ro Khanna,house,AAPL,Apple Inc AAPL:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+9cd5a79a7e9e15e68028,2026-05-14T11:42:50Z,Ro Khanna,house,SHW,The Sherwin-Williams Co SHW:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+93d55cdfbf354ad3fc1d,2026-05-14T11:42:50Z,Ro Khanna,house,OTIS,Otis Worldwide Corp OTIS:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+cc70e1cb1316096e3a40,2026-05-14T11:42:50Z,Ro Khanna,house,BDX,Becton Dickinson and Co BDX:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+9d0d6fdaff34df6945fb,2026-05-14T11:42:50Z,Ro Khanna,house,AMP,Ameriprise Financial Inc AMP:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+a6b5804d292a9305ca8a,2026-05-14T11:42:50Z,Ro Khanna,house,MCD,McDonald's Corp MCD:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+8768700c2c7ce4b89b70,2026-05-14T11:42:50Z,Ro Khanna,house,LOW,Lowe's Cos Inc LOW:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+cac8f070d17eadff23fc,2026-05-14T11:42:50Z,Ro Khanna,house,BX,Blackstone Group Inc BX:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+45c6bb2ec0ceb61451e0,2026-05-14T11:42:50Z,Ro Khanna,house,ABBV,AbbVie Inc ABBV:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+97d8fff62c96a1ef109b,2026-05-14T11:42:50Z,Ro Khanna,house,CTSH,Cognizant Technology Solutions Corp CTSH:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+39f907b270a5d5692987,2026-05-14T11:42:50Z,Ro Khanna,house,D,D.R. Horton Inc DHI:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+1729a28e774002441d3e,2026-05-14T11:42:50Z,Ro Khanna,house,CI,Cigna Corp CI:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+73385e0b5fbe2494433f,2026-05-14T11:42:50Z,Ro Khanna,house,COR,Cencora Inc COR:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+d60dc30827c276e38540,2026-05-14T11:42:50Z,Ro Khanna,house,ISRG,Intuitive Surgical Inc ISRG:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+170395ca1fe43f37e543,2026-05-14T11:42:50Z,Ro Khanna,house,BLK,Blackrock Inc BLK:US,sale,2026-04-13,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+d62bc588291b92adcf30,2026-05-14T11:42:50Z,Ro Khanna,house,IT,Gartner Inc IT:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2fc8d382802e015bcfb6,2026-05-14T11:42:50Z,Ro Khanna,house,LLY,Eli Lilly and Co LLY:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ce5749de296cc1213a19,2026-05-14T11:42:50Z,Ro Khanna,house,PPG,PPG Industries Inc PPG:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8a15b73be6f73165d946,2026-05-14T11:42:50Z,Ro Khanna,house,MCO,Moody's Corp. MCO:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e05c10c1a1221f83c182,2026-05-14T11:42:50Z,Ro Khanna,house,QCOM,QUALCOMM Inc QCOM:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2a6122ba9ca8aff5b612,2026-05-14T11:42:50Z,Ro Khanna,house,ABT,Abbott Laboratories ABT:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+89177355358c690c2024,2026-05-14T11:42:52Z,Ro Khanna,house,TFC,Truist Financial Corp TFC:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+14873fa25123c2d0d219,2026-05-14T11:42:52Z,Ro Khanna,house,UDR,UDR Inc UDR:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+0c866251fdedaf888a05,2026-05-14T11:42:52Z,Ro Khanna,house,TECH,Bio-Techne Corp TECH:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+62b18e16e6f5ad309f35,2026-05-14T11:42:52Z,Ro Khanna,house,TSLA,Tesla Inc TSLA:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9f5bf6741439c8f9bc34,2026-05-14T11:42:52Z,Ro Khanna,house,APO,Apollo Global Management Inc APO:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+386c75435a14c5ee470d,2026-05-14T11:42:52Z,Ro Khanna,house,PLC,Amcor PLC AMCR:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+24fbf18f954d78b64c92,2026-05-14T11:42:52Z,Ro Khanna,house,AVY,Avery Dennison Corp AVY:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+03bb84aca287a6142fce,2026-05-14T11:42:52Z,Ro Khanna,house,BSX,Boston Scientific Corp BSX:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+bd2d9cf7b1f9b2f89438,2026-05-14T11:42:52Z,Ro Khanna,house,BRO,Brown & Brown Inc BRO:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+35cd65017f9b04aa05ab,2026-05-14T11:42:52Z,Ro Khanna,house,CRH,CRH PLC CRH:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b8ebc37038aed0e94748,2026-05-14T11:42:52Z,Ro Khanna,house,PG,The Procter & Gamble Co PG:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8a2d7cca6792d7b008a3,2026-05-14T11:42:52Z,Ro Khanna,house,NKE,Nike Inc NKE:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+0b4e174cfca38c227849,2026-05-14T11:42:52Z,Ro Khanna,house,S,S&P Global Inc SPGI:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2bc2d076f166c15a8026,2026-05-14T11:42:52Z,Ro Khanna,house,EXPE,Expedia Group Inc EXPE:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d7d6572239d7ef94fc79,2026-05-14T11:42:52Z,Ro Khanna,house,BAX,Baxter International Inc BAX:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a8fde84b0a5ea0152ca3,2026-05-14T11:42:52Z,Ro Khanna,house,EFX,Equifax Inc EFX:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6dd840ebd91c5f1b544d,2026-05-14T11:42:52Z,Ro Khanna,house,GPC,Genuine Parts Co GPC:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d7b90720e90e0beebe9b,2026-05-14T11:42:52Z,Ro Khanna,house,FISV,Fiserv Inc FISV:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7e2e33b7c1fbedde227e,2026-05-14T11:42:52Z,Ro Khanna,house,BAC,Bank of America Corp BAC:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3f70cf15c11249c81be0,2026-05-14T11:42:52Z,Ro Khanna,house,ULTA,Ulta Beauty Inc ULTA:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+23e8a7fd6dcfbef22e18,2026-05-14T11:42:52Z,Ro Khanna,house,BIIB,Biogen Inc BIIB:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5888ccda1bfad73bf020,2026-05-14T11:42:52Z,Ro Khanna,house,ABNB,Airbnb Inc ABNB:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5e2c409e8a7d67513a0d,2026-05-14T11:42:52Z,Ro Khanna,house,IQV,Iqvia Holdings Inc IQV:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+536b9f3d284fdc509985,2026-05-14T11:42:52Z,Ro Khanna,house,TSCO,Tractor Supply Co TSCO:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7fea0ca8cbbcae9124c6,2026-05-14T11:42:52Z,Ro Khanna,house,ADSK,AUTODESK Inc ADSK:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+94f06dd4224d5d301175,2026-05-14T11:42:52Z,Ro Khanna,house,UBER,Uber Technologies Inc UBER:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c842cf4120d052600c62,2026-05-14T11:42:52Z,Ro Khanna,house,DRI,Darden Restaurants Inc DRI:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+863c1542f994a06f2f37,2026-05-14T11:42:52Z,Ro Khanna,house,DDOG,Datadog Inc DDOG:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+246227158c34d981af9c,2026-05-14T11:42:52Z,Ro Khanna,house,ROL,ROLLINS Inc ROL:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c4d68468d7bc9a58170c,2026-05-14T11:42:52Z,Ro Khanna,house,BKNG,Booking Holdings Inc BKNG:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+14f1683cd28a72bf35eb,2026-05-14T11:42:52Z,Ro Khanna,house,NDAQ,Nasdaq Inc NDAQ:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ead8907dbd8b12c231d3,2026-05-14T11:42:52Z,Ro Khanna,house,SQ,Block Inc SQ:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8f490147ecaa84e9b964,2026-05-14T11:42:52Z,Ro Khanna,house,GPN,GLOBAL PAYMENTS Inc GPN:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+11f8272ea57b40ecbdd0,2026-05-14T11:42:52Z,Ro Khanna,house,CSGP,CoStar Group Inc CSGP:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+002c54c0f1ce342a9319,2026-05-14T11:42:52Z,Ro Khanna,house,CRWD,CrowdStrike Holdings Inc CRWD:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4b94017484765a6fc20e,2026-05-14T11:42:52Z,Ro Khanna,house,PKG,Packaging Corp Of America PKG:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ba122aa4fb7bc5d1ed36,2026-05-14T11:42:52Z,Ro Khanna,house,MMM,3M Co MMM:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+341386fafbacb63c2eba,2026-05-14T11:42:52Z,Ro Khanna,house,SYF,Synchrony Financial SYF:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5ba2e09fd1765e410366,2026-05-14T11:42:52Z,Ro Khanna,house,IP,International Paper Co IP:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+24fa7b27380cd4a3080a,2026-05-14T11:42:52Z,Ro Khanna,house,UHS,Universal Health Services Inc UHS:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+fb396283f66262bd5770,2026-05-14T11:42:52Z,Ro Khanna,house,MKC,McCormick & Co Inc MKC:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ec8fcbd589ab4752bde2,2026-05-14T11:42:52Z,Ro Khanna,house,COIN,Coinbase Global Inc COIN:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c3fdc9320c1e98f813e3,2026-05-14T11:42:52Z,Ro Khanna,house,SUPER,SUPER MICRO COMPUTER INC SMCI:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+86738966c8c7f2928192,2026-05-14T11:42:52Z,Ro Khanna,house,C,C.H. Robinson Worldwide Inc CHRW:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9f08630a43a8806dee52,2026-05-14T11:42:52Z,Ro Khanna,house,LGF,Lions Gate Entertainment Corp LGF/A:US,sale,2026-04-21,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6dac791f32b9145ada29,2026-05-14T11:42:52Z,Ro Khanna,house,TTD,The Trade Desk Inc TTD:US,sale,2026-04-13,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+68a5c8511e64229d2e60,2026-05-14T11:42:52Z,Ro Khanna,house,BRK,Berkshire Hathaway Inc BRK/B:US,purchase,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+46c023a63f4655087bb1,2026-05-14T11:42:52Z,Ro Khanna,house,MA,Mastercard Inc MA:US,purchase,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+068b1c4a51fc120cdc66,2026-05-14T11:42:52Z,Ro Khanna,house,V,Visa Inc V:US,purchase,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+8672168e8e57b6901125,2026-05-14T11:42:52Z,Ro Khanna,house,IBM,International Business Machines Corp IBM:US,purchase,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+d3b24900285444b9c244,2026-05-14T11:42:52Z,Ro Khanna,house,INTC,Intel Corp INTC:US,purchase,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+686a8e8572664a5e486d,2026-05-14T11:42:52Z,Ro Khanna,house,BAC,Bank of America Corp BAC:US,purchase,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+650933d5372a412f4a95,2026-05-14T11:42:52Z,Ro Khanna,house,EMR,Emerson Electric Co EMR:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+42ebdec70afc8c10ebbf,2026-05-14T11:42:52Z,Ro Khanna,house,ORCL,Oracle Corp ORCL:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3b73dcdf57e151c5107c,2026-05-14T11:42:52Z,Ro Khanna,house,BSX,Boston Scientific Corp BSX:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+22e6208daa1057f07f31,2026-05-14T11:42:52Z,Ro Khanna,house,CARR,Carrier Global Corp CARR:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+eca7827e0afb0d1af676,2026-05-14T11:42:52Z,Ro Khanna,house,PM,Philip Morris International Inc PM:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+fb6e29ab498a56a007af,2026-05-14T11:42:52Z,Ro Khanna,house,SYK,Stryker Corp SYK:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e20520f275d35d2a6e13,2026-05-14T11:42:52Z,Ro Khanna,house,LOW,Lowe's Cos Inc LOW:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+fdef8b767e11ab1a2108,2026-05-14T11:42:52Z,Ro Khanna,house,MET,Metlife Inc MET:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ed8c1585065755da27cd,2026-05-14T11:42:52Z,Ro Khanna,house,AMD,Advanced Micro Devices Inc AMD:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7786bbf2badd071fa326,2026-05-14T11:42:52Z,Ro Khanna,house,TFC,Truist Financial Corp TFC:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7d4b1823b93da72c9c9e,2026-05-14T11:42:52Z,Ro Khanna,house,AT,AT&T Inc T:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c0b6a2cc63f5418d6fc9,2026-05-14T11:42:52Z,Ro Khanna,house,ANET,Arista Networks Inc ANET:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+003f735efa8c0dce2eb6,2026-05-14T11:42:52Z,Ro Khanna,house,MCO,Moody's Corp. MCO:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b9959706736093593da3,2026-05-14T11:42:52Z,Ro Khanna,house,CRWD,CrowdStrike Holdings Inc CRWD:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e8757a8af7394d4414f7,2026-05-14T11:42:52Z,Ro Khanna,house,KKR,KKR & Co Inc KKR:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5e4ab29064f404725bfb,2026-05-14T11:42:52Z,Ro Khanna,house,ITW,Illinois Tool Works Inc ITW:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2017b092027508e52550,2026-05-14T11:42:52Z,Ro Khanna,house,LII,Lennox International Inc LII:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1a9a3c718f1cfc4c3899,2026-05-14T11:42:52Z,Ro Khanna,house,DHR,Danaher Corp DHR:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e6a5c68be5aa865c8c34,2026-05-14T11:42:52Z,Ro Khanna,house,CTAS,Cintas Corp CTAS:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9106ddcec4157fb62af3,2026-05-14T11:42:52Z,Ro Khanna,house,HOOD,Robinhood Markets Inc HOOD:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ad6550d2eeb8edc0b454,2026-05-14T11:42:52Z,Ro Khanna,house,CDW,CDW Corp CDW:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+183a8a4bdb75d6af9db8,2026-05-14T11:42:52Z,Ro Khanna,house,SHW,The Sherwin-Williams Co SHW:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e9b69588935c573b9418,2026-05-14T11:42:52Z,Ro Khanna,house,FISV,Fiserv Inc FISV:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+60f78289bb91949c9169,2026-05-14T11:42:52Z,Ro Khanna,house,VRT,Vertiv Holdings Co VRT:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+077c317f009e2db7dde9,2026-05-14T11:42:52Z,Ro Khanna,house,FITB,Fifth Third Bancorp FITB:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+049525cb428d68c8ddac,2026-05-14T11:42:52Z,Ro Khanna,house,VRTX,Vertex Pharmaceuticals Inc VRTX:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a184f3f626b7687ac58e,2026-05-14T11:42:52Z,Ro Khanna,house,CMG,Chipotle Mexican Grill Inc CMG:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+3eed3dcb5f8b3d51b2b7,2026-05-14T11:42:52Z,Ro Khanna,house,ZTS,Zoetis Inc ZTS:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a5b9960716ad80c44623,2026-05-14T11:42:52Z,Ro Khanna,house,BLDR,Builders FirstSource Inc BLDR:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+119ae8c7c2f5d19afd0b,2026-05-14T11:42:52Z,Ro Khanna,house,OTIS,Otis Worldwide Corp OTIS:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c611dea177ed8f8d1a48,2026-05-14T11:42:52Z,Ro Khanna,house,MLM,Martin Marietta Materials Inc MLM:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+36930bcae85303ab91a1,2026-05-14T11:42:52Z,Ro Khanna,house,AMP,Ameriprise Financial Inc AMP:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2e0a04182d83d2f2e93b,2026-05-14T11:42:52Z,Ro Khanna,house,ADBE,Adobe Inc ADBE:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ade9543d5c87977b12dc,2026-05-14T11:42:52Z,Ro Khanna,house,CHTR,Charter Communications Inc CHTR:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5a68abe0d4493ad62571,2026-05-14T11:42:52Z,Ro Khanna,house,WFC,Wells Fargo & Co WFC:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6666a80ddfdfe3c107dd,2026-05-14T11:42:52Z,Ro Khanna,house,FICO,Fair Isaac Corporation FICO:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1c609dcf00c31ad92bca,2026-05-14T11:42:52Z,Ro Khanna,house,CORP,SANDISK CORP SNDK:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+dfbcc2fcde3858fcdb81,2026-05-14T11:42:52Z,Ro Khanna,house,S,S&P Global Inc SPGI:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d45be352e172923e5382,2026-05-14T11:42:52Z,Ro Khanna,house,CVNA,Carvana Co CVNA:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b75e0823947fa9cb916f,2026-05-14T11:42:52Z,Ro Khanna,house,ROK,Rockwell Automation Inc ROK:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e337f66a8c8420dfcec8,2026-05-14T11:42:52Z,Ro Khanna,house,MS,Morgan Stanley MS:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+54b6c647fa44f2da5290,2026-05-14T11:42:54Z,Ro Khanna,house,PODD,Insulet Corp PODD:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c585cdb02a47a87915cc,2026-05-14T11:42:54Z,Ro Khanna,house,QCOM,QUALCOMM Inc QCOM:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b2d96c6ac7985a4e80ad,2026-05-14T11:42:54Z,Ro Khanna,house,HD,The Home Depot Inc HD:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+048cf3d5946f847633b3,2026-05-14T11:42:54Z,Ro Khanna,house,LULU,Lululemon Athletica Inc LULU:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+023c7484bc6400fdecfb,2026-05-14T11:42:54Z,Ro Khanna,house,CRH,CRH PLC CRH:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+0809e4b53c75b268924a,2026-05-14T11:42:54Z,Ro Khanna,house,AME,AMETEK Inc AME:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+75ec9068b310a12bc9cd,2026-05-14T11:42:54Z,Ro Khanna,house,EFX,Equifax Inc EFX:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+fff9b12fdb08e26fbe37,2026-05-14T11:42:54Z,Ro Khanna,house,SWK,Stanley Black & Decker Inc SWK:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c448b8212673370c5aab,2026-05-14T11:42:54Z,Ro Khanna,house,ZBRA,Zebra Technologies Corp ZBRA:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4b61f2da6ca93fb6f5e0,2026-05-14T11:42:54Z,Ro Khanna,house,IR,Ingersoll Rand Inc IR:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+70e19cf0dfd5caeeef94,2026-05-14T11:42:54Z,Ro Khanna,house,GDDY,GoDaddy Inc GDDY:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+dc6f07785a80c6421a36,2026-05-14T11:42:54Z,Ro Khanna,house,MAS,Masco Corporation MAS:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9aa7c0987273dba598b4,2026-05-14T11:42:54Z,Ro Khanna,house,AVY,Avery Dennison Corp AVY:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+afe4b60041973aae27b4,2026-05-14T11:42:54Z,Ro Khanna,house,ARE,Alexandria Real Estate Equities Inc ARE:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+236c869668e612516346,2026-05-14T11:42:54Z,Ro Khanna,house,BRO,Brown & Brown Inc BRO:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+80b7642dc9fd24085b26,2026-05-14T11:42:54Z,Ro Khanna,house,LEN,Lennar Corp LEN:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d84f2eac0ca9d6cb148b,2026-05-14T11:42:54Z,Ro Khanna,house,RMD,Resmed Inc RMD:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+65878eba59d5226d448f,2026-05-14T11:42:54Z,Ro Khanna,house,O,O'Reilly Automotive Inc ORLY:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e66efeea4302a9525c34,2026-05-14T11:42:54Z,Ro Khanna,house,DECK,Deckers Outdoor Corp DECK:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8e12549fb37541f3f19e,2026-05-14T11:42:54Z,Ro Khanna,house,KEY,KeyCorp KEY:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+01a93f18bd92083ccd31,2026-05-14T11:42:54Z,Ro Khanna,house,A,A. O. Smith Corp AOS:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d159510cf31bec4297af,2026-05-14T11:42:54Z,Ro Khanna,house,PCAR,PACCAR Inc PCAR:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+83027ac1fa3956c9d445,2026-05-14T11:42:54Z,Ro Khanna,house,WAT,Waters Corp WAT:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+694277ceeb77497c52d7,2026-05-14T11:42:54Z,Ro Khanna,house,TSCO,Tractor Supply Co TSCO:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+858f6851546c1e254bd5,2026-05-14T11:42:54Z,Ro Khanna,house,DIS,The Walt Disney Co DIS:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+499f877f7188a5f47e63,2026-05-14T11:42:54Z,Ro Khanna,house,XYL,Xylem Inc XYL:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+df9233bde07b2860121a,2026-05-14T11:42:54Z,Ro Khanna,house,VMC,Vulcan Materials Co VMC:US,purchase,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5f2332f64d6a2adefff7,2026-05-14T11:42:54Z,Ro Khanna,house,SE,TotalEnergies SE TTE:US,purchase,2026-04-10,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+40d30160983038d5d177,2026-05-14T11:42:54Z,Ro Khanna,house,CBOE,CBOE MINI SPX INDEX XSP:US,purchase,2026-04-07,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+dbd70052287dd14cc10a,2026-05-14T11:42:54Z,Ro Khanna,house,PLC,Shell PLC SHEL:US,purchase,2026-04-10,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4b038f66fe8437701d3b,2026-05-14T11:42:54Z,Ro Khanna,house,CBOE,CBOE MINI SPX INDEX XSP:US,sale,2026-04-07,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+56ea7fcfa53b73880879,2026-05-14T11:42:54Z,Ro Khanna,house,CBOE,CBOE MINI SPX INDEX XSP:US,sale,2026-04-20,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+98bea4e9e4589a84c221,2026-05-14T11:42:54Z,Ro Khanna,house,CBOE,CBOE MINI SPX INDEX XSP:US,sale,2026-04-27,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+78f43acc3cf8f207bd67,2026-05-14T11:42:54Z,Ro Khanna,house,CBOE,CBOE MINI SPX INDEX XSP:US,sale,2026-04-15,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+dbeb3212be02b0c93402,2026-05-14T11:42:54Z,Ro Khanna,house,BLK,Blackrock Inc BLK:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+e77f42de6babb2a997a7,2026-05-14T11:42:54Z,Ro Khanna,house,AMGN,Amgen Inc AMGN:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+0507fb3f90cb0be4a173,2026-05-14T11:42:54Z,Ro Khanna,house,NOW,ServiceNow Inc NOW:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+f75d4e4b66b20e6119cb,2026-05-14T11:42:54Z,Ro Khanna,house,PLC,Eaton Corp PLC ETN:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+209f0701b6615e553ca4,2026-05-14T11:42:54Z,Ro Khanna,house,WAB,Westinghouse Air Brake Technologies Corp WAB:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+3659f8fc559a4324a25c,2026-05-14T11:42:54Z,Ro Khanna,house,PNC,The PNC Financial Services Group Inc PNC:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+18ac0e3523ea0326ae99,2026-05-14T11:42:54Z,Ro Khanna,house,T,T-Mobile US Inc TMUS:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+32f800f264bf33d74cb7,2026-05-14T11:42:54Z,Ro Khanna,house,KMB,Kimberly-Clark Corp KMB:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+499d3bfc370b9610e497,2026-05-14T11:42:54Z,Ro Khanna,house,MMM,3M Co MMM:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+d4847765e21233443c2e,2026-05-14T11:42:54Z,Ro Khanna,house,NDAQ,Nasdaq Inc NDAQ:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+c46d4e9ef0488fcaccd4,2026-05-14T11:42:54Z,Ro Khanna,house,ADP,Automatic Data Processing Inc ADP:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+30495dd2f0f4e5c08b0c,2026-05-14T11:42:54Z,Ro Khanna,house,PFG,Principal Financial Group Inc PFG:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+df64e85cef9b2193f11a,2026-05-14T11:42:54Z,Ro Khanna,house,PGR,The Progressive Corp PGR:US,sale,2026-04-24,2026-05-13,15K–50K,15001,50000,32500.5,capitol_trades
+81d1ce5c78d729652eb7,2026-05-14T11:42:54Z,Ro Khanna,house,FCX,Freeport-McMoRan Inc FCX:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4b6e9e4aaf563862c1b1,2026-05-14T11:42:54Z,Ro Khanna,house,CTSH,Cognizant Technology Solutions Corp CTSH:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+768d327f5e75c79e399e,2026-05-14T11:42:54Z,Ro Khanna,house,PAYX,Paychex Inc PAYX:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+5c38c1c75169f68b2c83,2026-05-14T11:42:54Z,Ro Khanna,house,CFG,Citizens Financial Group Inc CFG:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+334fade4c4b014364b62,2026-05-14T11:42:54Z,Ro Khanna,house,CI,Cigna Corp CI:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+38c638ebb697f63f3200,2026-05-14T11:42:54Z,Ro Khanna,house,TMO,Thermo Fisher Scientific Inc TMO:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8f2c6e987c7a42ce23fa,2026-05-14T11:42:54Z,Ro Khanna,house,IT,Gartner Inc IT:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+de50035352c418d009a1,2026-05-14T11:42:54Z,Ro Khanna,house,IP,International Paper Co IP:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+0e346c9a3285483bed2a,2026-05-14T11:42:54Z,Ro Khanna,house,ARES,Ares Management Corp ARES:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9af7c340d7033da3ae79,2026-05-14T11:42:54Z,Ro Khanna,house,U,U.S. Bancorp USB:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7bcdd32f99797104ed92,2026-05-14T11:42:54Z,Ro Khanna,house,NKE,Nike Inc NKE:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+867bbeaa9830f8df8cee,2026-05-14T11:42:54Z,Ro Khanna,house,CSGP,CoStar Group Inc CSGP:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+48051dce2c3048924054,2026-05-14T11:42:54Z,Ro Khanna,house,ADSK,AUTODESK Inc ADSK:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a8afb211ec50bf49723a,2026-05-14T11:42:54Z,Ro Khanna,house,F,Ford Motor Co F:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8cd254a1634b73cc1a0f,2026-05-14T11:42:54Z,Ro Khanna,house,PLC,Aon PLC AON:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4dfeceb027aa6c93b5ee,2026-05-14T11:42:54Z,Ro Khanna,house,BR,Broadridge Financial Solutions Inc BR:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+ebfeaaf95205ba404f28,2026-05-14T11:42:54Z,Ro Khanna,house,HBAN,Huntington Bancshares Inc HBAN:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+2ebb13ebe773b88a8157,2026-05-14T11:42:54Z,Ro Khanna,house,GPN,GLOBAL PAYMENTS Inc GPN:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+23d7f31d20338dd25832,2026-05-14T11:42:54Z,Ro Khanna,house,MCD,McDonald's Corp MCD:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+19a12120224cedc1d21c,2026-05-14T11:42:54Z,Ro Khanna,house,MRSH,Marsh & McLennan Companies Inc MRSH:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b4c3b02403362029bb2e,2026-05-14T11:42:54Z,Ro Khanna,house,BAX,Baxter International Inc BAX:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+1f795bc862aba58b4eee,2026-05-14T11:42:54Z,Ro Khanna,house,EW,Edwards Lifesciences Corp EW:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+594f489a7837d062c1ae,2026-05-14T11:42:54Z,Ro Khanna,house,VRSK,VERISK ANALYTICS Inc VRSK:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+8c9275166e369b9e58de,2026-05-14T11:42:54Z,Ro Khanna,house,ISRG,Intuitive Surgical Inc ISRG:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+293143e5c0e905b7989d,2026-05-14T11:42:54Z,Ro Khanna,house,WDAY,Workday Inc WDAY:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+adc2379d78ad295a9568,2026-05-14T11:42:54Z,Ro Khanna,house,KLA,KLA Corp KLAC:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+c7f73b858cda1a86a5d0,2026-05-14T11:42:54Z,Ro Khanna,house,DPZ,Domino's Pizza Inc DPZ:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+bbce356de89c86d15b2d,2026-05-14T11:42:54Z,Ro Khanna,house,AMT,American Tower Corp AMT:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b055d6b356402a010260,2026-05-14T11:42:54Z,Ro Khanna,house,TYL,Tyler Technologies Inc TYL:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+fa175cf8be1532897294,2026-05-14T11:42:54Z,Ro Khanna,house,PRU,Prudential Financial Inc PRU:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+64cc84c4764edfa85cca,2026-05-14T11:42:54Z,Ro Khanna,house,BDX,Becton Dickinson and Co BDX:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+4740fe9b68440d23a0a2,2026-05-14T11:42:54Z,Ro Khanna,house,HRL,Hormel Foods Corp HRL:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+cd00422ffcf83eba4353,2026-05-14T11:42:54Z,Ro Khanna,house,TTD,The Trade Desk Inc TTD:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+35af95b8de39e7f9fe05,2026-05-14T11:42:54Z,Ro Khanna,house,DXCM,DexCom Inc DXCM:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+7d70bd3ff1677f2e7bda,2026-05-14T11:42:54Z,Ro Khanna,house,NV,Koninklijke Ahold Delhaize NV ADRNY:US,sale,2026-04-10,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+b5e6ecff8b7e1770b2d1,2026-05-14T11:42:54Z,Ro Khanna,house,DELL,Dell Technologies Inc DELL:US,sale,2026-04-24,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+a2d8ea04919b866a742e,2026-05-14T11:42:54Z,Ro Khanna,house,WFC,Wells Fargo & Co WFC:US,purchase,2026-04-15,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+9b96c0250072c879a235,2026-05-14T11:42:54Z,Ro Khanna,house,EMERA,EMERA US FINANCE LP N/A,purchase,2026-04-15,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+e357b5f9aa0f1c81f744,2026-05-14T11:42:54Z,Ro Khanna,house,TEXAS,COLLIN COUNTY TEXAS N/A,purchase,2026-04-02,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+803dff6c2bcc550c2b16,2026-05-14T11:42:54Z,Ro Khanna,house,DELL,Dell Technologies Inc DELL:US,purchase,2026-04-15,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+d91e389938d5cb34c8c8,2026-05-14T11:42:54Z,Ro Khanna,house,MRVL,Marvell Technology Inc MRVL:US,sale,2026-04-15,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+cfd67d006abca6218587,2026-05-14T11:42:54Z,Ro Khanna,house,NET,Cloudflare Inc NET:US,sale,2026-04-15,2026-05-13,1K–15K,1001,15000,8000.5,capitol_trades
+6f27459882827ce4ca49,2026-05-14T11:42:54Z,Ro Khanna,house,SACHS,GOLDMAN SACHS TAX-ADVANTAGED GLOBAL EQUITY PORTFOLIO GSKPX:US,purchase,2026-04-10,2026-05-13,50K–100K,50001,100000,75000.5,capitol_trades
