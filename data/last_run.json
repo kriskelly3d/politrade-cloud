@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-05-25T12:55:50Z",
-  "new_records": 0,
-  "total_records": 1930,
+  "last_run_utc": "2026-05-25T16:14:22Z",
+  "new_records": 5,
+  "total_records": 1935,
   "sources": {
     "capitol_trades": {
       "status": "ok",
-      "records": 975
+      "records": 980
     },
     "senate_github": {
       "status": "ok",
