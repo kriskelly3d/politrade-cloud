@@ -1979,3 +1979,7 @@ fdd168046ada20b65a14,2026-06-02T17:59:07Z,Christian Menefee,house,PINS,Pinterest
 a13fff9ea265b54deaf9,2026-06-02T20:51:46Z,Sheldon Whitehouse,senate,ORCL,Oracle Corp ORCL:US,sale,2026-05-07,2026-06-02,15K–50K,15001,50000,32500.5,capitol_trades
 09b41c8384f5f7b29bef,2026-06-02T20:51:46Z,Sheldon Whitehouse,senate,NVDA,NVIDIA Corporation NVDA:US,sale,2026-05-08,2026-06-02,100K–250K,100001,250000,175000.5,capitol_trades
 510a2707f6db486cebb3,2026-06-02T20:51:46Z,Daniel Webster,house,REXR,Rexford Industrial Realty Inc REXR:US,sale,2025-02-26,2026-06-02,15K–50K,15001,50000,32500.5,capitol_trades
+a5a334361dce9528368a,2026-06-03T18:14:45Z,Kevin Hern,house,CTRA,Coterra Energy Inc CTRA:US,exchange,2026-05-08,2026-06-03,15K–50K,15001,50000,32500.5,capitol_trades
+2c35b3ac5efb972a4d79,2026-06-03T18:14:45Z,Kevin Hern,house,DVN,Devon Energy Corp DVN:US,exchange,2026-05-08,2026-06-03,15K–50K,15001,50000,32500.5,capitol_trades
+01bbd5dd31d32bb155e7,2026-06-03T18:14:45Z,Kevin Hern,house,LLC,MORGAN STANLEY FINANCE LLC N/A,sale,2026-05-06,2026-06-03,1M–5M,1000001,5000000,3000000.5,capitol_trades
+ba7d17cb32ec47056764,2026-06-03T18:14:45Z,Virginia Foxx,house,LP,Alliance Resource Partners LP ARLP:US,purchase,2026-05-15,2026-06-03,1K–15K,1001,15000,8000.5,capitol_trades
