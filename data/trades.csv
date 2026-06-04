@@ -1983,3 +1983,39 @@ a5a334361dce9528368a,2026-06-03T18:14:45Z,Kevin Hern,house,CTRA,Coterra Energy I
 2c35b3ac5efb972a4d79,2026-06-03T18:14:45Z,Kevin Hern,house,DVN,Devon Energy Corp DVN:US,exchange,2026-05-08,2026-06-03,15K–50K,15001,50000,32500.5,capitol_trades
 01bbd5dd31d32bb155e7,2026-06-03T18:14:45Z,Kevin Hern,house,LLC,MORGAN STANLEY FINANCE LLC N/A,sale,2026-05-06,2026-06-03,1M–5M,1000001,5000000,3000000.5,capitol_trades
 ba7d17cb32ec47056764,2026-06-03T18:14:45Z,Virginia Foxx,house,LP,Alliance Resource Partners LP ARLP:US,purchase,2026-05-15,2026-06-03,1K–15K,1001,15000,8000.5,capitol_trades
+e82261631779ac666051,2026-06-04T16:43:11Z,Tim Walberg,house,AMZN,Amazon.com Inc AMZN:US,purchase,2025-02-07,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+4703549f1ce0d08cec18,2026-06-04T16:43:11Z,Tim Walberg,house,AAPL,Apple Inc AAPL:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+6baf0a0efbbc0112141e,2026-06-04T16:43:11Z,Tim Walberg,house,BAC,Bank of America Corp BAC:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+cf860a1af58720052676,2026-06-04T16:43:11Z,Tim Walberg,house,BA,Boeing Co BA:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+a9e6903c140ba6eaebaa,2026-06-04T16:43:11Z,Tim Walberg,house,CAT,Caterpillar Inc CAT:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+0428bdec8a6fbd1fd9ef,2026-06-04T16:43:11Z,Tim Walberg,house,CVX,Chevron Corp CVX:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+5142e670e922741e6d37,2026-06-04T16:43:11Z,Tim Walberg,house,PLC,Eaton Corp PLC ETN:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+2b410beba0c9ad6c9058,2026-06-04T16:43:11Z,Tim Walberg,house,XOM,Exxon Mobil Corp XOM:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+8f729c4e53189b8d70dd,2026-06-04T16:43:11Z,Tim Walberg,house,FS,FS SPECIALTY LENDING FUND FSSL:US,purchase,2025-02-07,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+c0ebdc7af4ff48beaf6c,2026-06-04T16:43:11Z,Tim Walberg,house,FS,FS SPECIALTY LENDING FUND FSSL:US,sale,2026-06-01,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+40796bbc5047db293d34,2026-06-04T16:43:11Z,Tim Walberg,house,J,Jacobs Engineering Group Inc J:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+8c1581ef35ace1bf3a5c,2026-06-04T16:43:11Z,Tim Walberg,house,LHX,L3Harris Technologies Inc LHX:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+89881238481ba15bd34d,2026-06-04T16:43:11Z,Tim Walberg,house,LMT,Lockheed Martin Corp LMT:US,purchase,2025-02-07,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+a672b1c7b5b5b7d75ae6,2026-06-04T16:43:11Z,Tim Walberg,house,UAA,Under Armour Inc UAA:US,purchase,2025-02-07,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+d5fcf5be2394f7b5df90,2026-06-04T16:43:11Z,Tim Walberg,house,UAA,Under Armour Inc UAA:US,sale,2026-02-10,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+1e1b8181b66bfe23598f,2026-06-04T16:43:11Z,Tim Walberg,house,WFC,Wells Fargo & Co WFC:US,purchase,2025-02-07,2026-06-04,15K–50K,15001,50000,32500.5,capitol_trades
+b9fe88d64870489b8f99,2026-06-04T16:43:11Z,Josh Gottheimer,house,ABT,Abbott Laboratories ABT:US,sale,2026-05-27,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+675169aba1385b14c392,2026-06-04T16:43:11Z,Josh Gottheimer,house,ABBV,AbbVie Inc ABBV:US,sale,2026-05-05,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+a3553046384553613b13,2026-06-04T16:43:11Z,Josh Gottheimer,house,AMD,Advanced Micro Devices Inc AMD:US,purchase,2026-05-05,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+1fb7bf09c7d4b05a5d1e,2026-06-04T16:43:11Z,Josh Gottheimer,house,ADI,Analog Devices Inc ADI:US,purchase,2026-05-19,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+c0f8825e28217959a5dc,2026-06-04T16:43:11Z,Josh Gottheimer,house,BRK,Berkshire Hathaway Inc BRK/B:US,sale,2026-05-04,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+16235127a873e979e685,2026-06-04T16:43:11Z,Josh Gottheimer,house,FN,FABRINET FN:US,purchase,2026-05-01,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+40fb3966258d386e993e,2026-06-04T16:43:11Z,Josh Gottheimer,house,INTU,Intuit Inc INTU:US,sale,2026-05-22,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+2041726899d400f5515c,2026-06-04T16:43:11Z,Josh Gottheimer,house,LITE,Lumentum Holdings Inc LITE:US,purchase,2026-05-22,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+08f62d496314961518dd,2026-06-04T16:43:11Z,Josh Gottheimer,house,MU,Micron Technology Inc MU:US,purchase,2026-05-21,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+0d73cfeb4ad7cc22b122,2026-06-04T16:43:11Z,Josh Gottheimer,house,MSFT,Microsoft Corp MSFT:US,sale,2026-05-19,2026-06-04,250K–500K,250001,500000,375000.5,capitol_trades
+08e5a85dcda94f8a914c,2026-06-04T16:43:11Z,Josh Gottheimer,house,MSFT,Microsoft Corp MSFT:US,sale,2026-05-19,2026-06-04,500K–1M,500001,1000000,750000.5,capitol_trades
+8cc871aa971dd6e9aa74,2026-06-04T16:43:11Z,Josh Gottheimer,house,MSFT,Microsoft Corp MSFT:US,purchase,2026-05-19,2026-06-04,250K–500K,250001,500000,375000.5,capitol_trades
+48821ada8014a83533ba,2026-06-04T16:43:11Z,Josh Gottheimer,house,MSFT,Microsoft Corp MSFT:US,purchase,2026-05-19,2026-06-04,500K–1M,500001,1000000,750000.5,capitol_trades
+a3cc9e492958e11597ca,2026-06-04T16:43:11Z,Josh Gottheimer,house,SA,"Nestle SA, Cham Und Vevey NSRGY:US",sale,2026-05-14,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+23d6d87d1d080f035cea,2026-06-04T16:43:11Z,Josh Gottheimer,house,SA,"Nestle SA, Cham Und Vevey NSRGY:US",sale,2026-05-05,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+12801b36d7221c35beac,2026-06-04T16:43:11Z,Josh Gottheimer,house,PANW,Palo Alto Networks Inc PANW:US,purchase,2026-05-14,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+6f42d2da4a6371f6f9bc,2026-06-04T16:43:11Z,Josh Gottheimer,house,CORP,SANDISK CORP SNDK:US,purchase,2026-05-07,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+9dd04e591a91794e78c8,2026-06-04T16:43:11Z,Josh Gottheimer,house,TPH,Tri Pointe Homes Inc TPH:US,sale,2026-05-15,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+69ce223147220b753fe6,2026-06-04T16:43:11Z,Josh Gottheimer,house,TWLO,Twilio Inc TWLO:US,purchase,2026-05-04,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
+a708cb6bbaa998e46487,2026-06-04T16:43:11Z,Cleo Fields,house,AAPL,Apple Inc AAPL:US,purchase,2026-05-14,2026-06-04,1K–15K,1001,15000,8000.5,capitol_trades
